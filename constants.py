@@ -1,0 +1,6 @@
+token = "204041833:AAHGCc05LbjPCIT1KagWCNMDI9OH3Rzo2N8"
+chatid = "691496"
+hostname1 = "10.0.1.10"
+hostname2 = "10.0.1.11"
+hostname3 = "10.0.1.12"
+hostname4 = "10.0.1.16"
