@@ -3,5 +3,5 @@
 
 Для работы скрипта требуется усстановить pyTelegramBotAPI
 
-  pip install -U pyTelegramBotAPI
+  pip install pyTelegramBotAPI
 
